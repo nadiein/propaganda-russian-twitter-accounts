@@ -12,7 +12,7 @@
 
 # Here is list of links:
 
-'''
+```
 https://twitter.com/v_tretyakov?s=20&t=qWGiZuHYJFJjAjfG1qm8fw
 https://twitter.com/Snegnayada?s=20&t=BgXEYjIY85TGpDFOk7sSqA
 https://twitter.com/Arkebuzir?s=20&t=pHTVOcQmYvPBxdWfKUidYg
@@ -228,12 +228,12 @@ https://twitter.com/piligrim947?s=20&t=7nrB1M85tCOJbPgmP6qprg
 https://twitter.com/OnbwfUHE27qbMu5?s=20&t=ZYqdgIs7dc6lGoCp8b098A
 https://twitter.com/zidan_alex?s=20&t=RgsjnZrPrsxj2qUbKJ26CA
 https://twitter.com/KinoVideoGif?s=20&t=Pil3ctIaetkOIrpjesYAkQ
-'''
+```
 
 
 # Here is list of id's if somebody of you will write automation script for this task
 
-'''
+```
 v_tretyakov
 Snegnayada
 Arkebuzir
@@ -449,4 +449,4 @@ piligrim947
 OnbwfUHE27qbMu5
 zidan_alex
 KinoVideoGif
-'''
+```
