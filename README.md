@@ -1,1 +1,1 @@
-# propaganda-russian-twitter-accounts
+## Russian Twitter accounts who inciting hatred towards Ukrainian people
